@@ -32,7 +32,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chauhan081&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan081&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
